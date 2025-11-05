@@ -33,7 +33,7 @@ Data-Augmentation/
 └── assets/ # (optional) Generated image samples
 
 
----
+
 
 ## ⚙️ Requirements
 
@@ -50,9 +50,9 @@ To install locally:
 pip install tensorflow numpy matplotlib
 
 
----
 
-### ✅ How to Add This File
+
+## ✅ How to Add This File
 1. Create a file named **`README.md`** in your repo folder (`G:\...Assignment 1\`).
 2. Paste all the content above into it.
 3. Save it.
